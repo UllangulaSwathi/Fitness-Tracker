@@ -173,5 +173,5 @@ python app.py
 ## Publication
 
 This project has been published in **IEEE Xplore**:  
-[Ullangula Swathi, “Fitness-Tracker: Real-Time Exercise Form Analysis Using Computer Vision and MediaPipe,” IEEE Xplore, 2025](https://ieeexplore.ieee.org/document/11211818)
+[Ullangula Swathi, “Fitness-Tracker: Real-Time Exercise Form Analysis Using Computer Vision and MediaPipe,” IEEE Xplore, 2025](https://ieeexplore.ieee.org/document/11211843)
 
